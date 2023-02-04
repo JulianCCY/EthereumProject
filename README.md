@@ -2,6 +2,7 @@
 # Secure Data Storage System On Ethereum
 For detailed information about the project, please refer to [project wiki](https://github.com/dfallow/EthereumProject/wiki).
 
+<img width="600" height="900" src="https://user-images.githubusercontent.com/70948419/216776025-afdb7f5d-356d-4609-8ccd-f77131b92f92.jpg">
 
 ## Project setup
 
